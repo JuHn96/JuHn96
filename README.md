@@ -1,6 +1,8 @@
 <div align="center">
 
-# JuHn's Space
+<strong>JuHn's Space</strong>
+
+<br><br>
 
 `Study` · `Projects` · `Notes` · `Experiments`
 
