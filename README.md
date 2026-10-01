@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## Stack
 
 <div align="center">
@@ -29,13 +27,20 @@
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
----
+<br>
 
 ## Now
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://acute-throne-23e.notion.site/3ea8cae706e6802fba9ed97a0102e617" title="Notion">
+  <img align="right" alt="Notion" src="https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white" />
+</a>
+<a href="https://github.com/JuHn96/egov-study" title="Repository">
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ### eGovFrame Study
 
@@ -45,13 +50,23 @@
 전자정부 표준프레임워크를 단순히 따라 사용하기보다  
 **Java → Spring → DB/MyBatis → JSP → eGovFrame** 순으로 기반 원리부터 학습하고 기록하는 공간입니다.
 
-**Focus**
+<table width="100%">
+<tr>
+<td>
 
-- WSL / Linux 기반 개발환경 구성
-- Java · Spring 핵심 원리 학습
-- MyBatis · JSP · eGovFrame 구조 이해
-- CRUD 구현 및 공공기관 프로젝트 구조 분석
-- 학습 과정과 트러블슈팅 문서화
+<strong>Focus</strong>
+
+<ul>
+<li>WSL / Linux 기반 개발환경 구성</li>
+<li>Java · Spring 핵심 원리 학습</li>
+<li>MyBatis · JSP · eGovFrame 구조 이해</li>
+<li>CRUD 구현 및 공공기관 프로젝트 구조 분석</li>
+<li>학습 과정과 트러블슈팅 문서화</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 **Stack**
 
@@ -62,10 +77,15 @@
 ![Docker](https://img.shields.io/badge/Docker-Environment-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-WSL-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-[**Repository →**](https://github.com/JuHn96/egov-study) · [**Notion →**](https://acute-throne-23e.notion.site/3ea8cae706e6802fba9ed97a0102e617)
-
 </td>
 <td width="50%" valign="top">
+
+<a href="https://acute-throne-23e.notion.site/3ea8cae706e680a995bfef442c48aac1" title="Notion">
+  <img align="right" alt="Notion" src="https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white" />
+</a>
+<a href="https://github.com/JuHn96/wuwa-build-stats" title="Repository">
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ### Wuwa Build Stats
 
@@ -75,13 +95,23 @@
 명조 캐릭터 빌드 데이터를 사용자에게 입력받아  
 **선택 비율 · 순위 · 기간별 통계**를 제공하기 위해 개발 중인 개인 프로젝트입니다.
 
-**Current Work**
+<table width="100%">
+<tr>
+<td>
 
-- 서비스 기획 및 전체 구조 설계
-- 데이터 수집 · 통계 구조 설계
-- Backend / Web / Android 개발
-- Docker 기반 개발환경 구성
-- 배포 구조 검토 및 확장
+<strong>Current Work</strong>
+
+<ul>
+<li>서비스 기획 및 전체 구조 설계</li>
+<li>데이터 수집 · 통계 구조 설계</li>
+<li>Backend / Web / Android 개발</li>
+<li>Docker 기반 개발환경 구성</li>
+<li>배포 구조 검토 및 확장</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 **Stack**
 
@@ -93,19 +123,21 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[**Repository →**](https://github.com/JuHn96/wuwa-build-stats) · [**Notion →**](https://acute-throne-23e.notion.site/3ea8cae706e680a995bfef442c48aac1)
-
 </td>
 </tr>
 </table>
 
----
+<br>
 
 ## Team Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/Project-AWS-AI-Minutes/AI-Minutes" title="Repository">
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ### MeetUs
 **AI Meeting Summary & To-Do Archive**
@@ -117,15 +149,25 @@
 회의 음성을 분석해 회의 요약과 참여자별 To-Do를 생성하고 관리하는 서비스입니다.  
 AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 프로젝트입니다.
 
-**Contribution**
+<table width="100%">
+<tr>
+<td>
 
-- AWS Transcribe 기반 STT 처리
-- Amazon Bedrock 기반 회의 요약 · To-Do 추출
-- SQS Long Polling 기반 비동기 처리
-- S3 / ECS Fargate 기반 서비스 구성
-- AI Service Docker 컨테이너 구성
-- GitHub Actions + OIDC 기반 CI/CD
-- ECS Rolling Update 및 Core API 연동
+<strong>Contribution</strong>
+
+<ul>
+<li>AWS Transcribe 기반 STT 처리</li>
+<li>Amazon Bedrock 기반 회의 요약 · To-Do 추출</li>
+<li>SQS Long Polling 기반 비동기 처리</li>
+<li>S3 / ECS Fargate 기반 서비스 구성</li>
+<li>AI Service Docker 컨테이너 구성</li>
+<li>GitHub Actions + OIDC 기반 CI/CD</li>
+<li>ECS Rolling Update 및 Core API 연동</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 **Stack**
 
@@ -139,10 +181,12 @@ AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-[**Repository →**](https://github.com/Project-AWS-AI-Minutes/AI-Minutes)
-
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/fire-detection-ai/JuHn" title="Repository">
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ### Fire Detection
 **AI CCTV Fire Detection System**
@@ -154,16 +198,26 @@ AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 
 YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해  
 실시간 이벤트를 관리하도록 구성한 AI CCTV 프로젝트입니다.
 
-**Contribution**
+<table width="100%">
+<tr>
+<td>
 
-- FastAPI 기반 Backend 구축
-- CCTV · 이벤트 관리 API 구현
-- YOLO 추론 결과와 Backend 이벤트 처리 로직 연동
-- DB 담당자 데이터베이스와 Backend 연동
-- Frontend API · 데이터 흐름 연동
-- WebSocket 기반 실시간 이벤트 전달
-- MJPEG 스트림 및 이벤트 처리 연동
-- Docker Compose 기반 실행환경 구성
+<strong>Contribution</strong>
+
+<ul>
+<li>FastAPI 기반 Backend 구축</li>
+<li>CCTV · 이벤트 관리 API 구현</li>
+<li>YOLO 추론 결과와 Backend 이벤트 처리 로직 연동</li>
+<li>DB 담당자 데이터베이스와 Backend 연동</li>
+<li>Frontend API · 데이터 흐름 연동</li>
+<li>WebSocket 기반 실시간 이벤트 전달</li>
+<li>MJPEG 스트림 및 이벤트 처리 연동</li>
+<li>Docker Compose 기반 실행환경 구성</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 **Stack**
 
@@ -175,13 +229,15 @@ YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해
 ![MJPEG](https://img.shields.io/badge/MJPEG-Streaming-5C6BC0?style=flat-square)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Environment-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[**Repository →**](https://github.com/fire-detection-ai/JuHn)
-
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/LMS-SHS/SHS" title="Repository">
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ### SHS
 **Learning Management System**
@@ -192,15 +248,25 @@ YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해
 
 Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시스템입니다.
 
-**Contribution**
+<table width="100%">
+<tr>
+<td>
 
-- Database 영역을 중심으로 개발
-- MySQL 데이터 관리 및 Backend 연동
-- Spring Data JPA 기반 데이터 처리
-- 프로젝트 후반 Frontend 개발 지원
-- 강좌 목록 · 상세 / 공지사항 / 강사 소개 구현
-- Header · Footer · Mega Menu 등 공통 UI 보완
-- API 연결 및 화면 연동 오류 수정
+<strong>Contribution</strong>
+
+<ul>
+<li>Database 영역을 중심으로 개발</li>
+<li>MySQL 데이터 관리 및 Backend 연동</li>
+<li>Spring Data JPA 기반 데이터 처리</li>
+<li>프로젝트 후반 Frontend 개발 지원</li>
+<li>강좌 목록 · 상세 / 공지사항 / 강사 소개 구현</li>
+<li>Header · Footer · Mega Menu 등 공통 UI 보완</li>
+<li>API 연결 및 화면 연동 오류 수정</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 **Stack**
 
@@ -212,10 +278,12 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 ![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-API-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-[**Repository →**](https://github.com/LMS-SHS/SHS)
-
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/Unme-miniHome/JuHn_Unme" title="Repository">
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ### Unme MiniHome
 **Mini Homepage Web Service**
@@ -226,15 +294,25 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 
 사용자별 미니홈피를 구성하고 관리할 수 있도록 개발한 Spring Boot 기반 웹 서비스입니다.
 
-**Contribution**
+<table width="100%">
+<tr>
+<td>
 
-- Spring Boot 기반 Backend 개발
-- 사용자 도메인 · 서비스 로직 구현
-- 회원가입 · 로그인 기능 구현
-- 아이디 / 비밀번호 찾기 기능 구현
-- Spring Security 기반 인증 · 접근 권한 처리
-- Spring Data JPA 기반 DB 연동
-- DB / Frontend 담당자와 데이터 및 기능 연동
+<strong>Contribution</strong>
+
+<ul>
+<li>Spring Boot 기반 Backend 개발</li>
+<li>사용자 도메인 · 서비스 로직 구현</li>
+<li>회원가입 · 로그인 기능 구현</li>
+<li>아이디 / 비밀번호 찾기 기능 구현</li>
+<li>Spring Security 기반 인증 · 접근 권한 처리</li>
+<li>Spring Data JPA 기반 DB 연동</li>
+<li>DB / Frontend 담당자와 데이터 및 기능 연동</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 **Stack**
 
@@ -245,13 +323,11 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-View-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
-[**Repository →**](https://github.com/Unme-miniHome/JuHn_Unme)
-
 </td>
 </tr>
 </table>
 
----
+<br>
 
 ## GitHub
 
