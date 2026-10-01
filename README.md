@@ -36,10 +36,10 @@
 <td width="50%" valign="top">
 
 <a href="https://acute-throne-23e.notion.site/3ea8cae706e6802fba9ed97a0102e617" title="Notion">
-  <img align="right" alt="Notion" src="https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img align="right" alt="Notion" src="https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion&logoColor=white" />
 </a>
 <a href="https://github.com/JuHn96/egov-study" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 ### eGovFrame Study
@@ -81,10 +81,10 @@
 <td width="50%" valign="top">
 
 <a href="https://acute-throne-23e.notion.site/3ea8cae706e680a995bfef442c48aac1" title="Notion">
-  <img align="right" alt="Notion" src="https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img align="right" alt="Notion" src="https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion&logoColor=white" />
 </a>
 <a href="https://github.com/JuHn96/wuwa-build-stats" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 ### Wuwa Build Stats
@@ -136,7 +136,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Project-AWS-AI-Minutes/AI-Minutes" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 ### MeetUs
@@ -185,7 +185,7 @@ AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 
 <td width="50%" valign="top">
 
 <a href="https://github.com/fire-detection-ai/JuHn" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 ### Fire Detection
@@ -236,7 +236,7 @@ YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해
 <td width="50%" valign="top">
 
 <a href="https://github.com/LMS-SHS/SHS" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 ### SHS
@@ -282,7 +282,7 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 <td width="50%" valign="top">
 
 <a href="https://github.com/Unme-miniHome/JuHn_Unme" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 ### Unme MiniHome
