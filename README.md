@@ -1,8 +1,8 @@
 <div align="center">
 
-<strong>JuHn's Space</strong>
+<img src="./assets/juhn-space.svg" alt="JuHn's Space" width="280" />
 
-<br><br>
+<br>
 
 `Study` · `Projects` · `Notes` · `Experiments`
 
