@@ -53,8 +53,14 @@
 - CRUD 구현 및 공공기관 프로젝트 구조 분석
 - 학습 과정과 트러블슈팅 문서화
 
-**Stack**  
-`Java` `Spring` `MyBatis` `JSP` `Docker` `Linux`
+**Stack**
+
+![Java](https://img.shields.io/badge/Java-Backend-B07219?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-Persistence-DC382D?style=flat-square)
+![JSP](https://img.shields.io/badge/JSP-View-007396?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Environment-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-WSL-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 [**Repository →**](https://github.com/JuHn96/egov-study) · [**Notion →**](https://acute-throne-23e.notion.site/3ea8cae706e6802fba9ed97a0102e617)
 
@@ -77,8 +83,15 @@
 - Docker 기반 개발환경 구성
 - 배포 구조 검토 및 확장
 
-**Stack**  
-`FastAPI` `SQLAlchemy` `PostgreSQL` `Next.js` `TypeScript` `Kotlin` `Docker`
+**Stack**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Web-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Web-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [**Repository →**](https://github.com/JuHn96/wuwa-build-stats) · [**Notion →**](https://acute-throne-23e.notion.site/3ea8cae706e680a995bfef442c48aac1)
 
@@ -97,8 +110,9 @@
 ### MeetUs
 **AI Meeting Summary & To-Do Archive**
 
-`Bootcamp Team Project` · **AWS 중심**  
-**Role:** AI Processing / AWS
+![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Role](https://img.shields.io/badge/ROLE-AI%20PROCESSING%20%2F%20AWS-0969da?style=flat-square)
 
 회의 음성을 분석해 회의 요약과 참여자별 To-Do를 생성하고 관리하는 서비스입니다.  
 AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 프로젝트입니다.
@@ -113,8 +127,17 @@ AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 
 - GitHub Actions + OIDC 기반 CI/CD
 - ECS Rolling Update 및 Core API 연동
 
-**Stack**  
-`Python` `AWS Transcribe` `Amazon Bedrock` `SQS` `S3` `ECS Fargate` `Docker` `GitHub Actions`
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-AI-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Transcribe](https://img.shields.io/badge/AWS%20Transcribe-STT-FF9900?style=flat-square)
+![Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-LLM-8A2BE2?style=flat-square)
+![SQS](https://img.shields.io/badge/Amazon%20SQS-Async-FF4F8B?style=flat-square)
+![S3](https://img.shields.io/badge/Amazon%20S3-Storage-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-Fargate-FF9900?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 [**Repository →**](https://github.com/Project-AWS-AI-Minutes/AI-Minutes)
 
@@ -124,8 +147,9 @@ AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 
 ### Fire Detection
 **AI CCTV Fire Detection System**
 
-`Bootcamp Team Project` · **AI / YOLO 중심**  
-**Role:** Backend / Integration
+![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%2F%20YOLO-111111?style=flat-square)
+![Role](https://img.shields.io/badge/ROLE-BACKEND%20%2F%20INTEGRATION-009688?style=flat-square)
 
 YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해  
 실시간 이벤트를 관리하도록 구성한 AI CCTV 프로젝트입니다.
@@ -141,8 +165,15 @@ YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해
 - MJPEG 스트림 및 이벤트 처리 연동
 - Docker Compose 기반 실행환경 구성
 
-**Stack**  
-`Python` `YOLO` `FastAPI` `MySQL` `WebSocket` `MJPEG` `Docker Compose`
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-AI-111111?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-010101?style=flat-square)
+![MJPEG](https://img.shields.io/badge/MJPEG-Streaming-5C6BC0?style=flat-square)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Environment-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [**Repository →**](https://github.com/fire-detection-ai/JuHn)
 
@@ -155,8 +186,9 @@ YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해
 ### SHS
 **Learning Management System**
 
-`Bootcamp Team Project`  
-**Role:** Database / Frontend Support
+![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-DATABASE%20%2F%20WEB-4479A1?style=flat-square)
+![Role](https://img.shields.io/badge/ROLE-DATABASE%20%2F%20FRONTEND%20SUPPORT-0969da?style=flat-square)
 
 Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시스템입니다.
 
@@ -170,8 +202,15 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 - Header · Footer · Mega Menu 등 공통 UI 보완
 - API 연결 및 화면 연동 오류 수정
 
-**Stack**  
-`Java` `Spring Boot` `Spring Data JPA` `MySQL` `React` `Vite` `Axios`
+**Stack**
+
+![Java](https://img.shields.io/badge/Java-Backend-B07219?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring%20Data-JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-API-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
 [**Repository →**](https://github.com/LMS-SHS/SHS)
 
@@ -181,8 +220,9 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 ### Unme MiniHome
 **Mini Homepage Web Service**
 
-`Bootcamp Team Project`  
-**Role:** Backend
+![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-BACKEND-6DB33F?style=flat-square)
+![Role](https://img.shields.io/badge/ROLE-BACKEND-2ea44f?style=flat-square)
 
 사용자별 미니홈피를 구성하고 관리할 수 있도록 개발한 Spring Boot 기반 웹 서비스입니다.
 
@@ -196,8 +236,14 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 - Spring Data JPA 기반 DB 연동
 - DB / Frontend 담당자와 데이터 및 기능 연동
 
-**Stack**  
-`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` `Thymeleaf`
+**Stack**
+
+![Java](https://img.shields.io/badge/Java-Backend-B07219?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring-Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring%20Data-JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-View-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
 [**Repository →**](https://github.com/Unme-miniHome/JuHn_Unme)
 
@@ -211,6 +257,7 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuHn96&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuHn96&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuHn96&layout=compact&langs_count=8&hide_border=true&theme=transparent&custom_title=Most%20Used%20Languages" />
 
 </div>
