@@ -80,7 +80,7 @@
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-2ea44f?style=flat-square)
 ![Type](https://img.shields.io/badge/PROJECT-PERSONAL-8250df?style=flat-square)
 
-명조 캐릭터 빌드 데이터를 사용자에게 입력받아  
+모바일 게임 명조 캐릭터 빌드 데이터를 사용자에게 입력받아  
 **선택 비율 · 순위 · 기간별 통계**를 제공하기 위해 개발 중인 개인 프로젝트입니다.
 
 <table width="100%">
