@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="72" viewBox="0 0 520 72">
+  <style>
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 34px;
+      font-weight: 600;
+      fill: #1f2328;
+    }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #f0f6fc; }
+    }
+  </style>
+  <text x="260" y="47" text-anchor="middle">JuHn's Space</text>
+</svg>
