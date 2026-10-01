@@ -35,14 +35,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://acute-throne-23e.notion.site/3ea8cae706e6802fba9ed97a0102e617" title="Notion">
-  <img align="right" alt="Notion" src="https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion&logoColor=white" />
-</a>
-<a href="https://github.com/JuHn96/egov-study" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-### eGovFrame Study
+<h3>eGovFrame Study<a href="https://acute-throne-23e.notion.site/3ea8cae706e6802fba9ed97a0102e617" title="Notion"><img align="right" alt="Notion" src="https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion&logoColor=white" /></a><a href="https://github.com/JuHn96/egov-study" title="Repository"><img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a></h3>
 
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-2ea44f?style=flat-square)
 ![Type](https://img.shields.io/badge/STUDY-PERSONAL-0969da?style=flat-square)
@@ -80,14 +73,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://acute-throne-23e.notion.site/3ea8cae706e680a995bfef442c48aac1" title="Notion">
-  <img align="right" alt="Notion" src="https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion&logoColor=white" />
-</a>
-<a href="https://github.com/JuHn96/wuwa-build-stats" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-### Wuwa Build Stats
+<h3>Wuwa Build Stats<a href="https://acute-throne-23e.notion.site/3ea8cae706e680a995bfef442c48aac1" title="Notion"><img align="right" alt="Notion" src="https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion&logoColor=white" /></a><a href="https://github.com/JuHn96/wuwa-build-stats" title="Repository"><img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a></h3>
 
 ![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-2ea44f?style=flat-square)
 ![Type](https://img.shields.io/badge/PROJECT-PERSONAL-8250df?style=flat-square)
@@ -135,11 +121,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Project-AWS-AI-Minutes/AI-Minutes" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-### MeetUs
+<h3>MeetUs<a href="https://github.com/Project-AWS-AI-Minutes/AI-Minutes" title="Repository"><img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a></h3>
 **AI Meeting Summary & To-Do Archive**
 
 ![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
@@ -184,11 +166,7 @@ AWS 서비스를 조합해 처리 파이프라인과 배포 환경을 구성한 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/fire-detection-ai/JuHn" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-### Fire Detection
+<h3>Fire Detection<a href="https://github.com/fire-detection-ai/JuHn" title="Repository"><img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a></h3>
 **AI CCTV Fire Detection System**
 
 ![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
@@ -235,11 +213,7 @@ YOLO 기반 화재 감지 결과를 CCTV 시스템과 연결해
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/LMS-SHS/SHS" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-### SHS
+<h3>SHS<a href="https://github.com/LMS-SHS/SHS" title="Repository"><img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a></h3>
 **Learning Management System**
 
 ![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
@@ -281,11 +255,7 @@ Spring Boot와 React를 이용해 구축한 수험생 대상 학습 관리 시�
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unme-miniHome/JuHn_Unme" title="Repository">
-  <img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-### Unme MiniHome
+<h3>Unme MiniHome<a href="https://github.com/Unme-miniHome/JuHn_Unme" title="Repository"><img align="right" alt="Repository" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a></h3>
 **Mini Homepage Web Service**
 
 ![Type](https://img.shields.io/badge/TYPE-BOOTCAMP%20TEAM-6e7781?style=flat-square)
