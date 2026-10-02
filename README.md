@@ -43,7 +43,7 @@
 ![Type](https://img.shields.io/badge/STUDY-PERSONAL-0969da?style=flat-square)
 
 전자정부 표준프레임워크를 단순히 따라 사용하기보다  
-**Java → Spring → DB/MyBatis → JSP → eGovFrame** 순으로 기반 원리부터 학습하고 기록하는 공간입니다.
+**Java → Spring → DB/MyBatis → JSP → eGovFrame** 순으로 기반 원리부터 학습하고 기록하는 목적입니다.
 
 <table width="100%">
 <tr>
